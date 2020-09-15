@@ -24,23 +24,26 @@ The data was gathered from https://www.kaggle.com/.
 Objective
 
 Some directions to take when exploring the data:
-Which team played most matches?
-Best team of all time.
-Which teams dominated different eras of football?
-What trends have there been in international football throughout the years.
-Team, which scored most goals.
-Number of matches per each tournament.
-How much, if at all, does hosting a major tournament help a country's chances in the tournament?
-Which teams are the most active in playing friendly and friendly tournaments - does it help or hurt them.
-Performance of the teams both when home and away.
-Hypothesis 
-Is score performance affected depending on if the game takes place at home or away from home?
+1) Which team played most matches?
+2) Best team of all time.
+3) Which teams dominated different eras of football?
+4) What trends have there been in international football throughout the years.
+5) Team, which scored most goals.
+6) Number of matches per each tournament.
+7) How much, if at all, does hosting a major tournament help a country's chances in the tournament?
+9) Which teams are the most active in playing friendly and friendly tournaments - does it help or hurt them.
+10) Performance of the teams both when home and away.
+ 
+ Hypothesis 
+  Is score performance affected depending on if the game takes place at home or away from home?
+ 
 Methodology
-The project was carried out in a Jupyter notebook, with the python codes and using various python libraries e.g. pandas, numpy, seaborn and matplotlib to extract meaningful information from the data as well as adding additional features. Techniques applied is.
-
+ The project was carried out in a Jupyter notebook, with the python codes and using various python libraries e.g. pandas, numpy, seaborn and matplotlib to extract meaningful   information from the data as well as adding additional features.
+ 
+ Techniques applied is:
 Exploratory data analysis.
 
-Findings/insights from graph
+Findings/insights 
 
 Out of 41,586 about 17,029 were Friendly matches, which is roughly 40%, followed by FIFA World Cup qualification with 7236.
 England scored the most goals with 2208 in official international matches, and then came Brazil with 2149.
