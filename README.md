@@ -8,15 +8,15 @@ The matches are strictly men's full internationals.
 
 The dataset consists of the following columns.
 
-Date - date of the match.
-Home team - the name of the home team.
-Away team - the name of the away team.
-Home score - full-time home team score including extra time, not including penalty-shootouts.
-Away score - full-time away team score including extra time, not including penalty-shootouts.
-Tournament - the name of the tournament.
-City - the name of the city/town/administrative unit where the match was played.
-Country - the name of the country where the match was played.
-Neutral - TRUE/FALSE column indicating whether the match was played at a neutral venue.
+1) Date - date of the match.
+2) Home team - the name of the home team.
+3) Away team - the name of the away team.
+4) Home score - full-time home team score including extra time, not including penalty-shootouts.
+5) Away score - full-time away team score including extra time, not including penalty-shootouts.
+6) Tournament - the name of the tournament.
+7) City - the name of the city/town/administrative unit where the match was played.
+8) Country - the name of the country where the match was played.
+9) Neutral - TRUE/FALSE column indicating whether the match was played at a neutral venue.
 
 Acknowledgement
 The data was gathered from https://www.kaggle.com/.
